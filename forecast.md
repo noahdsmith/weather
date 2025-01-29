@@ -1,1 +1,9 @@
-Cloudy today.
+# Forecast
+
+## Today
+
+Cloudy
+
+## Tomorrow
+
+Sunny
