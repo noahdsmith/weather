@@ -6,4 +6,4 @@ Cloudy
 
 ## Tomorrow
 
-Sunny
+Sunny and clear, but a cold night.
